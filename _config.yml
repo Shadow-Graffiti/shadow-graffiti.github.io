@@ -1,4 +1,4 @@
-title: My personal blog - Adam Neilson
+title: 그림자의 낙서
 email: shadowforgraffiti@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -9,20 +9,20 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Adam Neilson # add your name
+author: 그림자 # add your name
 author-pic: adam-face.jpg
-about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
+about-author: My nickname is "Shadow". And this site's name is "Shadow's Graffiti".
 
 # Contact links
 email: shadowforgraffiti@gmail.com # Add your Email address
-phone: # Add your Phone number
-website: # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
-github: shadowgraffiti # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
-facebook: # Add your Facebook handle
-instagram: # Add your Instagram handle
-pinterest: # Add your Pinterest handle
+# phone: # Add your Phone number
+# website: # Add your website, do not add http://
+# linkedin: # Add your Linkedin handle
+github: shadow-graffiti # Add your Github handle
+# twitter: '@artemsheludko_' # Add your Twitter handle
+# facebook: # Add your Facebook handle
+# instagram: # Add your Instagram handle
+# pinterest: # Add your Pinterest handle
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier.
@@ -31,7 +31,7 @@ mailchimp: # Add your MailChimp form identifier.
 discus_identifier: shadow-for-graffiti # Add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-112595932-1 # Google Analytics
 
 # Paginate
 paginate: 6
