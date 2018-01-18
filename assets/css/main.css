@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Noto+Serif%3A400%2C400i%2C700%2C700i&ver=f8796c58e68692eacaa510223f670df2);
+
 .highlight {
   background-color: #faf9f9;
   -webkit-border-radius: 3px;
@@ -805,7 +807,6 @@ blockquote {
   border-left: 3px solid #311e3e;
   padding-left: 18px;
   margin-left: 21px;
-  font-style: italic;
   color: #311e3e;
 }
 
@@ -1758,4 +1759,8 @@ pre code {
   .author-box .author-desc p {
     margin: 0 0 15px;
   }
+}
+
+body {
+  font-family: ‘Noto Serif KR’;
 }
