@@ -2,7 +2,7 @@
 layout: post
 title: 메이커 문화에 대한 나의 생각
 date: 2018-01-19
-description:  # Add post description (optional)
+description: 21세기의 화두로 떠오른 메이커 문화에 대한 설명과 메이커 문화의 올바른 정착에 대한 나의 생각 # Add post description (optional)
 img-url: https://pmcvariety.files.wordpress.com/2015/04/pinocchio-live-action-disney.jpg?w=1000&h=563&crop=1 # Add image post (optional)
 tags: [Blog, Maker, 생각]
 author: 그림자 # Add name author (optional)
